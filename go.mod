@@ -1,3 +1,3 @@
-module github.com/Hencya/Hacktive8-FGA.git
+module github.com/Hencya/Hacktiv8-FGA
 
 go 1.18
